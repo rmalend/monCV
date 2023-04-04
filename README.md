@@ -1,2 +1,2 @@
 # monCV
-Quelques demos de projets
+Quelques demos de code privé ou projet
